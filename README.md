@@ -2,7 +2,7 @@
 <h2>Mas cuidado, eles não podem te pegar, então seja rápido</h2><br>
 <b>Utilize as setas direcionais para movimentar seu personagem e fugir dos inimigos</b><br>
 <b>Com o botão esquerdo do mouse dispare seus poderes e acumule eliminações</b><br>
-<h3>Acesse agora para jogar: <p><a href="[https://www.freecodecamp.org/](https://www.construct.net/en/free-online-games/wizards-game-62835/play)" target="_blank"></a>.</p>
+<h3>Acesse agora para jogar: <p>href="[https://www.freecodecamp.org/](https://www.construct.net/en/free-online-games/wizards-game-62835/play)" target="_blank">.</p>
 
 
 ![Screenshot_2](https://github.com/Rveiga20/projeto-construct-3/assets/164427466/8f55d931-8277-49aa-919a-1b20684860e9)
