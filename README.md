@@ -1,5 +1,5 @@
-Use seus poderes de mago e destrua inimigos!<br>
-Mas cuidado, eles não podem te pegar, então seja rápido<br>
+<h1>Use seus poderes de mago e destrua inimigos!</h1><br>
+<h2>Mas cuidado, eles não podem te pegar, então seja rápido</h2><br>
 Acesse agora para jogar: https://www.construct.net/en/free-online-games/wizards-game-62835/play
 
 
